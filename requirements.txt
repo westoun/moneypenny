@@ -1,0 +1,15 @@
+beautifulsoup4==4.9.1
+lxml==4.5.1
+mps-youtube==0.2.8
+nltk==3.5
+numpy==1.19.0
+PyAudio==0.2.11
+python-vlc==3.0.10114
+requests==2.24.0
+scipy==1.5.0
+spacy==2.3.0
+SpeechRecognition==3.8.1
+torch==1.5.1
+urllib3==1.25.9
+wikipedia==1.4.0
+youtube-dl==2020.6.16.1

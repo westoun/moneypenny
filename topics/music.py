@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-# TODO: Make sleep async to allow stopping
-
 from bs4 import BeautifulSoup
 import pafy
 from time import sleep
